@@ -85,8 +85,4 @@
 
 
 
-### Thank you,
-
-Jaizon Lubaton
-
-Software Engineer
+### Thank you
